@@ -1,22 +1,21 @@
-======Deskripsi Petualangan Lelaki Tampan======
-1.Data yang di tampilkan(Hardcode)
+# Petualangan Lelaki Tampan
+
+## Mini Project Roadmap
+
+1. Data yang ditampilkan (hardcode dulu saja):
+
+```
 {
-	"nama :" "agus"
-	"alamat :" "Bogor"
-	"umur :" "XX"
+  "nama": "Agus",
+  "alamat": "Bogor",
+  "umur": 17
 }
+```
 
-2.Memunculkan data dari database
-
-3.Membuat banyak data lebih dari 10
-
-4.Filter(exact) contoh  ?nama="agus"
-
-5.Filter(like) contoh ?nama="gu"
-
-6.Delete
-
-7.Post (Create) = URL
-
-8.Put (Update)
-
+2. Memunculkan data dari database .
+3. Membuat banyak data lebih dari 10.
+4. Filter (exact). Contoh: `/api/route?nama="agus"`
+5. Filter (like). Contoh: `/api/route?nama="gu"`
+6. DELETE
+7. POST (Create)
+8. PUT (Update)
