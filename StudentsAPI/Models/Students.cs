@@ -17,6 +17,7 @@ namespace StudentsAPI.Models
     public class StudentsDBContext : DbContext
     {
         public DbSet<Students> Student { get; set; }
+        //public List<Students> StudentList { get; set; }
     }
 
 }
