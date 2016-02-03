@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Data.Entity;
 
 namespace StudentsAPI.Models
 {
@@ -12,4 +13,10 @@ namespace StudentsAPI.Models
         public string Alamat { get; set; }
         public int Umur { get; set; }
     }
+
+    public class StudentsDBContext : DbContext
+    {
+        public DbSet<Students> Student { get; set; }
+    }
+
 }
