@@ -14,13 +14,11 @@ namespace StudentsAPI
     {
         void Application_Start(object sender, EventArgs e)
         {
-<<<<<<< HEAD
+
 
             GlobalConfiguration.Configuration.Formatters.JsonFormatter.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             GlobalConfiguration.Configuration.Formatters.Remove(GlobalConfiguration.Configuration.Formatters.XmlFormatter);
 
-=======
->>>>>>> e46b4a0e1d8c5c5e503e1e330befe9dc10c716aa
             // Code that runs on application startup
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);

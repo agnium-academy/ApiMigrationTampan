@@ -93,11 +93,8 @@ C:\api\ApiMigrationTampan\StudentsAPI\bin\roslyn\System.IO.FileSystem.dll
 C:\api\ApiMigrationTampan\StudentsAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\api\ApiMigrationTampan\StudentsAPI\bin\roslyn\vbc.exe.config
 C:\api\ApiMigrationTampan\StudentsAPI\bin\roslyn\vbc.rsp
-<<<<<<< HEAD
 C:\api\ApiMigrationTampan\StudentsAPI\bin\EntityFramework.dll
 C:\api\ApiMigrationTampan\StudentsAPI\bin\EntityFramework.SqlServer.dll
 C:\api\ApiMigrationTampan\StudentsAPI\bin\EntityFramework.xml
 C:\api\ApiMigrationTampan\StudentsAPI\bin\EntityFramework.SqlServer.xml
 C:\api\ApiMigrationTampan\StudentsAPI\obj\Debug\StudentsAPI.csprojResolveAssemblyReference.cache
-=======
->>>>>>> e46b4a0e1d8c5c5e503e1e330befe9dc10c716aa
