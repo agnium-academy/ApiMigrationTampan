@@ -11,6 +11,10 @@ namespace StudentsAPI
         {
             // Web API configuration and services
 
+            // Remove the XML formatter
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
+
+
             // Web API routes
             config.MapHttpAttributeRoutes();
 
@@ -20,5 +24,6 @@ namespace StudentsAPI
                 defaults: new { id = RouteParameter.Optional }
             );
         }
+
     }
 }
