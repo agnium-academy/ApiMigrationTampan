@@ -76,7 +76,6 @@ C:\api\ApiMigrationTampan\StudentsAPI\bin\Newtonsoft.Json.xml
 C:\api\ApiMigrationTampan\StudentsAPI\bin\System.Net.Http.Formatting.xml
 C:\api\ApiMigrationTampan\StudentsAPI\bin\System.Web.Http.xml
 C:\api\ApiMigrationTampan\StudentsAPI\bin\System.Web.Http.WebHost.xml
-C:\api\ApiMigrationTampan\StudentsAPI\obj\Debug\StudentsAPI.csprojResolveAssemblyReference.cache
 C:\api\ApiMigrationTampan\StudentsAPI\obj\Debug\StudentsAPI.dll
 C:\api\ApiMigrationTampan\StudentsAPI\obj\Debug\StudentsAPI.pdb
 C:\api\ApiMigrationTampan\StudentsAPI\bin\roslyn\csc.exe.config
